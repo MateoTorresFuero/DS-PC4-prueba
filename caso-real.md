@@ -2,8 +2,11 @@ Este es un contexto crucial, ya que los laboratorios de seguridad como el que pl
 
 El proyecto "Zero-Trust Network Sandbox" se justifica por la necesidad de mitigar un vector de ataque que se hizo tristemente famoso: el **Movimiento Lateral** (Lateral Movement) dentro de una red que confía implícitamente en sus componentes internos.
 
-El caso de la vida real más emblemático para justificar la necesidad de la microsegmentación y el Zero Trust es el **ataque a Colonial Pipeline en 2021**.
+El caso de la vida real más emblemático para justificar la necesidad de la microsegmentación y el Zero Trust es el **ataque a Colonial Pipeline en 07/05/2021**.
 
+Link 1: https://www.rockwellautomation.com/es-mx/company/news/articles/lecciones-del-ciberataque-a-colonial-pipeline.html
+
+Link 2: https://insurica.com/blog/colonial-pipeline-ransomware-attack/
 ---
 
 ## 1. Acontecimiento: El Ataque a Colonial Pipeline (2021)
